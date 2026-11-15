@@ -1,0 +1,6 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "soft-wave-33ab",
+  "main": "_worker.js",
+  "compatibility_date": "2026-01-20"
+}
