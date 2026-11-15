@@ -1,3 +1,4 @@
+// Trigger the first Cloudflare Git integration build.
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "soft-wave-33ab",
